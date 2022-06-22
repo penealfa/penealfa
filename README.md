@@ -23,6 +23,7 @@ penealfa@github
 🚩 Interested in Full Stack Machine Learning Application development
 🎵 Love inde, lofi, pop and soft music
 ```
+<br>
 <hr>
 
 ### 👨‍💻 Programming Languages
