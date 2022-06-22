@@ -16,7 +16,7 @@ Hi, I'm Peneal Feleke!
 ```
 penealfa@github
 -------------------------
-💻 I am a full stack desktop app developer and on my way of being a fullstack web developer
+💻 I am a full stack desktop app developer and on my way to being a fullstack web developer
 📝 I have a strong interest in Data Science, Deep Learning, Machine Learning and Artificial Intelligence
 🌱 Interested in Learning about Computer Vision and Machine Learning stuff
 🌟 Main languages: C++,java,c#(.NET,linq & ADO),JavaScript
