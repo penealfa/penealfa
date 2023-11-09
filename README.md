@@ -10,17 +10,6 @@ Hi, I'm Peneal Feleke!
 
 <hr>
 
-```
-penealfa@github
--------------------------
-💻 I am a full stack desktop app developer and on my way to being a fullstack web developer
-📝 I have a strong interest in Data Science, Deep Learning, Machine Learning and Artificial Intelligence
-🌱 Interested in Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: C++,java,c#(.NET,linq & ADO),JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🎵 Love inde, lofi, pop and soft music
-```
-<br>
 <br>
 <hr>
 
@@ -54,47 +43,6 @@ penealfa@github
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
-
-
-
-## GitHub Stats
-
-
-|                                                                     Peneal's Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Peneal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=penealfa&theme=react-dark&hide_border=true&area=true) |
-| ![Peneal's github stats](https://github-readme-stats.vercel.app/api?username=penealfa&show_icons=true&theme=algolia)              | 
-| ![Peneal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=penealfa&theme=algolia)                    | 
-    
-
-|                                                                                                      Peneal's Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=penealfa&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=penealfa&theme=algolia&layout=compact) |
-
-
-
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work Together!
-
-If you have any questions about C# windows form app development or want to work with me, feel free to <a href="penealfeleke17@gmail.com">contact me through my email</a>.
-
-
-
-  </td>
-  <td width="50%" valign="top">
-
-## Risks?
-
-“The biggest risk is not taking any risk... In a world that changing really quickly, the only strategy that is guaranteed to fail is not taking risks.”
-― Mark Zuckerberg
-
-  </td>
-  </tr>
-</table>
 
 ------
 
